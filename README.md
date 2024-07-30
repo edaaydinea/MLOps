@@ -10,8 +10,6 @@
    - **Status:** In Progress
    - **Link:** <https://www.coursera.org/learn/introduction-to-machine-learning-in-production?specialization=machine-learning-engineering-for-production-mlops>
 
-2. 
-
 ...
 
 ## Courses
