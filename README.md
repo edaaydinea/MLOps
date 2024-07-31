@@ -22,7 +22,9 @@
       - [Week 1 Notes](https://github.com/edaaydinea/MLOps/blob/main/L1/W1/LectureNotes.md)
 
 - **Week2: Select and Train a Model**
-  - **Status:** In Progress
+  - **Status:** Completed
+  - **Notes:**
+      - [Week 2 Notes](https://github.com/edaaydinea/MLOps/blob/main/L1/W2/LectureNote.md)
 
 - **Week3: Data Definition and Baseline**
   - **Status:** Not Started
