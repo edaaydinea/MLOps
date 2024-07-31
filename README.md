@@ -33,5 +33,5 @@
 
 ## Certificates
 
-- **Supervised Machine Learning: Regression and Classification**
+- **Machine Learning in Production**
   - **Link:** [URL to certificate, if available]
