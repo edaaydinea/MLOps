@@ -1,4 +1,4 @@
-# Machine Learning Specialization
+# Machine Learning Engineering for Production (MLOps) Specialization
 
 - **Where:** Coursera
 - **University/Institute:** Deeplearning.AI
