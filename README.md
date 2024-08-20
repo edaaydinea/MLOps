@@ -66,6 +66,11 @@ Deploying Machine Learning Models in Production
 
 **Week 3: Data Journey and Data Storage**
 
+* [Week 3 Notes](L2/W3/lecture_note.ipynb)
+* [Ungraded Lab: ML Metadata](L2/W3/C2_W3_Lab_1_MLMetadata.ipynb)
+* [Ungraded Lab: Iterative Schema](L2/W3/C2_W3_Lab_2_IterativeSchema.ipynb)
+* [Week 3 Assignment - Data Pipeline Components for Production ML](L2/W3/C2W3_Assignment.ipynb)
+
 **Week 4 (Optional): Advanced Labeling, Augmentation and Data Preprocessing**
 
 ...
