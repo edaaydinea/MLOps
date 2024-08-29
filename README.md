@@ -89,6 +89,7 @@ Course 4: Deploying Machine Learning Models in Production
 * [Ungraded Lab - Hyperparameter Tuning and Model Training with TFX](L3/W1/C3_W1_Lab_2_TFX_Tuner_and_Trainer.ipynb)
 
 **Week 2: Model Resource Management Techniques**
+* [Week 2 Notes](L3/W2/lecture_note.ipynb)
 
 **Week 3: High-Performance Modeling**
 
