@@ -18,12 +18,12 @@ Course 2: Machine Learning Data Lifecycle in Production
 
 Course 3:  Machine Learning Modeling Pipelines in Production
 
-*   **Status:** IIn Progress
+*   **Status:** Completed
 *   **Link:** \<\<https://www.coursera.org/learn/machine-learning-modeling-pipelines-in-production?specialization=machine-learning-engineering-for-production-mlops\>
 
 Course 4: Deploying Machine Learning Models in Production
 
-*   **Status:** Not Started
+*   **Status:** In progress
 *   **Link:** \<https://www.coursera.org/learn/deploying-machine-learning-models-in-production?specialization=machine-learning-engineering-for-production-mlops\>
 
 ---
@@ -95,15 +95,36 @@ Course 4: Deploying Machine Learning Models in Production
 **Week 3: High-Performance Modeling**
 
 *   [Week 3 Notes](L3/W3/lecture_note.ipynb)
+
+**Week 4: Model Analysis**
+
+*   [Week 4 Notes](L3/W4/lecture_note.ipynb)
 *   [Ungraded Lab: TensorFlow Model Analysis](L3/W4/C3_W4_Lab_1_TFMA.ipynb)
 *   [Ungraded Lab: Model Analysis with TFX Evaluator](L3/W4/C3_W4_Lab_2_TFX_Evaluator.ipynb)
 *   [Ungraded Lab: Fairness Indicators](L3/W4/C3_W4_Lab_3_Fairness_Indicators.ipynb)
 
-**Week 4: Model Analysis**
-
 **Week 5: Interpretability**
+
+*   [Week 5 Notes](L3/W5/lecture_note.ipynb)
+*   [Ungraded Lab: Shapley Values](L3/W5/C3_W5_Lab_1_Shap_Values.ipynb)
+*   [Ungraded Lab: Permutation Feature Importance](L3/W5/C3_W5_Lab_2_Permutation_Importance.ipynb)
+
+---
+
+### Course 4: Deploying Machine Learning Models in Production
+
+**Week 1: Model Serving: Introduction**
+
+**Week 2: Model Serving: Patterns and Infrastructure**
+
+**Week 3: Model Management and Delivery**
+
+**Week 4: Model Monitoring and Logging**
+
+---
 
 ## Certificates
 
 *   [**Course 1: Machine Learning in Production**](https://coursera.org/share/864eb76cce20548d9968d9ad06cf5fe0)
 *   [**Course 2: Machine Learning Data Lifecycle in Production**](https://coursera.org/share/c5f6f626e56f2feca4d1b5bc55e1d25a)
+*   [**Course 3:  Machine Learning Modeling Pipelines in Production**](https://coursera.org/share/0ca2af8bdafa6773b84e3144dbe9db61)
