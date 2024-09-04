@@ -94,7 +94,7 @@ Course 4: Deploying Machine Learning Models in Production
 
 **Week 3: High-Performance Modeling**
 
-*   [Week 3 Notes](L3/W4/lecture_note.ipynb)
+*   [Week 3 Notes](L3/W3/lecture_note.ipynb)
 *   [Ungraded Lab: TensorFlow Model Analysis](L3/W4/C3_W4_Lab_1_TFMA.ipynb)
 *   [Ungraded Lab: Model Analysis with TFX Evaluator](L3/W4/C3_W4_Lab_2_TFX_Evaluator.ipynb)
 *   [Ungraded Lab: Fairness Indicators](L3/W4/C3_W4_Lab_3_Fairness_Indicators.ipynb)
