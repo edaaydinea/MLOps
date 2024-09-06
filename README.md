@@ -115,7 +115,11 @@ Course 4: Deploying Machine Learning Models in Production
 
 **Week 1: Model Serving: Introduction**
 
+*   [Week 1 Notes](L4/W1/lecture_note.ipynb)
+
 **Week 2: Model Serving: Patterns and Infrastructure**
+
+*  [Week 2 Notes](L4/W2/lecture_note.ipynb)
 
 **Week 3: Model Management and Delivery**
 
