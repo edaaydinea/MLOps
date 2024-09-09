@@ -124,6 +124,8 @@ Course 4: Deploying Machine Learning Models in Production
 **Week 3: Model Management and Delivery**
 
 *   [Week 3 Notes](L4/W3/lecture_note.ipynb)
+*   [Ungraded Lab: Building ML Pipelines with Kubeflow](L4/W3/C4_W3_Lab_1_Kubeflow_Pipelines.ipynb)
+*   [Ungraded Lab: Developing Custom TFX Components](L4/W3/C4_W3_Lab_2_TFX_Custom_Components.ipynb)
 
 **Week 4: Model Monitoring and Logging**
 
